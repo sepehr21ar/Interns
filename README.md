@@ -1,2 +1,2 @@
 # Interns
-This Repo is for Future Founders Internship program!
+This Repo is for Future Founders Internship Program!
